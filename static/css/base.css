@@ -1,0 +1,11 @@
+header {
+  font-family: sans-serif;
+  text-align: center;
+  background: #333;
+  padding: 2rem 0;
+}
+
+header h1 a {
+  text-decoration: none;
+  color: #fff;
+}
