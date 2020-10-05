@@ -3,6 +3,7 @@ header {
   text-align: center;
   background: #333;
   padding: 2rem 0;
+  width: 100%;
 }
 
 header h1 a {
@@ -10,10 +11,10 @@ header h1 a {
   color: #fff;
 }
 
-.nav-left {
+header .nav-left {
   float: left;
 }
 
-.nav-right {
+header .nav-right {
   float: right;
 }
